@@ -1,6 +1,3 @@
-- name: Home
-  path: tnodb.html
-  section_id: home
 - name: About
   path: about.html
   section_id: about
@@ -28,8 +25,8 @@
   path: people.html
   children:
     - name: Data Releases (restricted)
-      path: http://wiki.ossos-survey.org/index.php/OSSOS_data_release_access
+      link: http://wiki.ossos-survey.org/index.php/OSSOS_data_release_access
     - name: Wiki
-      path: http://wiki.ossos-survey.org
+      link: http://wiki.ossos-survey.org
     - name: Get Involved
       path: get-involved.html

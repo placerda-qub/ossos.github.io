@@ -1,44 +1,35 @@
-- avatar: images/@stock/member-1.jpg
-  name: Mark Wayne
-  position: Founder
+- avatar: images/people/
+  name: JJ Kavelaars
+  position: Data and observing
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/JJKavelaars
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/@stock/member-2.jpg
-  name: Kate Holms
-  position: Creative Director
-  socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://dribbble.com
-      icon: dribbble
+
+- avatar: images/people/
+  name: Brett Gladman
+  position: Principal Investigator
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/@stock/member-3.jpg
-  name: Tome Hason
-  position: Designer
-  socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://tumblr.com
-      icon: tumblr
+
+- avatar: images/people/jean_marc_petit.jpg
+  name: Jean-Marc Petit
+  position:
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/@stock/member-4.jpg
-  name: Lily Whrem
-  position: Developer
+
+- avatar: images/people/michele_bannister.jpg
+  name: Michele Bannister
+  position: Data and observing
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/astrokiwi
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    Michele ensures the observations happen for object discovery, and analyses the images to find the objects hidden within.
+
+- avatar: images/people
+  name:
+  position:
+  desc:
+

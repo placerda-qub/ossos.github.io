@@ -89,18 +89,18 @@ works:
 
 
 services:
-  - icon: trophy
-    title: Web Design
-    desc: Acusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
+  - icon: heartbeat
+    title: Dense, tracked, observing
+    desc: We observe our target areas of sky every new moon. Even objects as distant as Pluto move, just very slowly. We slide the areas of sky we target at that slow rate, keeping track of the objects we discover.
+  - icon: magic
+    title: Precision astrometry
+    desc: Observing the same sky often means we can merge the many images - a mosaic in which we very accurately locate the stars. Measuring where the moving objects are on the sky relative to such a good reference catalogue lets us determine very precisely where they are in space.
+  - icon: diamond
+    title: Exquisite orbits
+    desc: Cadence and astrometry together let us determine the orbits of these icy worlds in only two years of observing, less than 1% of the time it takes them to orbit the Sun.
   - icon: cogs
-    title: Web Development
-    desc: Acusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
-  - icon: pagelines
-    title: Branding
-    desc: Acusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
-  - icon: lock
-    title: Security
-    desc: Acusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
+    title: Survey simulator
+    desc: Guided by Neptune's gravity, when Kuiper belt objects come closest to the Sun, they clump on the sky. The simulator removes the bias created by where and how we look at the sky in how many objects we think there are overall.
 
 milestones:
   - icon: folder-open
@@ -185,60 +185,60 @@ milestones:
 
 <div class="row">
   <div class="medium-3 large-3 columns">
-    {% include icon-text.html title='Survey' desc='The highest-priority Large Program on the Canada-France-Hawaii Telescope in 2013-16, OSSOS is surveying ~170 deg<sup>2</sup> to magnitude 24.5 in r-band.' icon_class='fa fa-camera' delay='0' shape_class='icon-text-circle' %}
+    {% include icon-text.html title='Survey' desc='The highest-priority Large Program on the Canada-France-Hawaii Telescope in 2013-16, OSSOS discovers distant moving objects with wide-field optical imaging.' icon_class='fa fa-camera' delay='0' shape_class='icon-text-circle' %}
   </div>
   <div class="medium-3 large-3 columns">
     {% include icon-text.html title='Science' desc='OSSOS explores the resonant populations of the Kuiper belt, so we can test models of how the Solar System evolved.' icon_class='fa fa-flask' delay='200' shape_class='icon-text-circle' %}
   </div>
   <div class="medium-3 large-3 columns">
-    {% include icon-text.html title='Discoveries' desc='All OSSOS icy worlds are available in a public catalogue of orbits, photometry and astrometry.' icon_class='fa fa-star-half-full' delay='400' shape_class='icon-text-circle' %}
+    {% include icon-text.html title='Discoveries' desc='All OSSOS icy worlds are available in a public catalogue that lists their orbits, brightness and location on the sky.' icon_class='fa fa-star-half-full' delay='400' shape_class='icon-text-circle' %}
   </div>
   <div class="medium-3 large-3 columns">
     {% include icon-text.html title='People' desc='OSSOS is an international collaboration, involving 40+ scientists at institutes in Canada, France, the US, Taiwan and more.' icon_class='fa fa-users' delay='600' shape_class='icon-text-circle' %}
   </div>
 </div>
 
-<div class="spacing"></div>
+<!--<div class="spacing"></div>-->
 
-<div class="full" style="background: #f5f5f5;">
-  <div class="row">
-    <div class="large-12 columns">
-      {% include section-header.html title="Our works" %}
-      <div class="spacing"></div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-      </p>
-      <div class="three spacing"></div>
-    </div>
-  </div>
+<!--<div class="full" style="background: #f5f5f5;">-->
+  <!--<div class="row">-->
+    <!--<div class="large-12 columns">-->
+      <!--{% include section-header.html title="Our works" %}-->
+      <!--<div class="spacing"></div>-->
+      <!--<p>-->
+        <!--Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.-->
+      <!--</p>-->
+      <!--<div class="three spacing"></div>-->
+    <!--</div>-->
+  <!--</div>-->
 
-  <div class="mod modGallery">
-    <ul class="gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-      {% for work in page.works %}
-        <li class="{{ work.klass }}">
-          <a href='{{ work.link_to }}'>
-            <img alt="" src="{{ work.image }}" />
-            <div class='overlay'>
-              <div class='thumb-info'>
-                <h3>{{ work.title }}</h3>
-                <p>{{ work.desc }}</p>
-              </div>
-            </div>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
+  <!--<div class="mod modGallery">-->
+    <!--<ul class="gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4">-->
+      <!--{% for work in page.works %}-->
+        <!--<li class="{{ work.klass }}">-->
+          <!--<a href='{{ work.link_to }}'>-->
+            <!--<img alt="" src="{{ work.image }}" />-->
+            <!--<div class='overlay'>-->
+              <!--<div class='thumb-info'>-->
+                <!--<h3>{{ work.title }}</h3>-->
+                <!--<p>{{ work.desc }}</p>-->
+              <!--</div>-->
+            <!--</div>-->
+          <!--</a>-->
+        <!--</li>-->
+      <!--{% endfor %}-->
+    <!--</ul>-->
+  <!--</div>-->
+<!--</div>-->
 
 
 <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Our services" %}
+      {% include section-header.html title="The survey" %}
       <div class='spacing'></div>
       <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+        The outer Solar System remains relatively unexplored. What lies beyond the orbit of Neptune? How many icy worlds are out there? Are they orbiting where they formed, or have their orbits changed? If they were scattered to where we see them today, how did this happen? OSSOS aims to answer these - and many other questions.
       </p>
       <div class='three spacing'></div>
     </div>
@@ -265,31 +265,31 @@ milestones:
 </div>
 
 
-<div class='full parallax' style='background-image: url(images/@stock/milestone-bg.jpg); color: #fff;'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      {% include section-header.html title="Parallax effect" color="#fff" %}
-      <div class='spacing'></div>
-      <p class='centered-text' style='color: #ccc;'>
-        Dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-      </p>
-      <div class='two spacing'></div>
-    </div>
-  </div>
-  <div class='row'>
-    {% for milestone in page.milestones %}
-      <div class='medium-3 large-3 columns'>
-        <div class='mod modMilestone'>
-          <i class='fa fa-{{milestone.icon}}'></i>
-          <strong data-from='{{milestone.from}}' data-to='{{milestone.to}}'>&nbsp;</strong>
-          <span>{{milestone.title}}</span>
-          <div class='four spacing'></div>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-  <div class='two spacing'></div>
-</div>
+<!--<div class='full parallax' style='background-image: url(images/@stock/milestone-bg.jpg); color: #fff;'>-->
+  <!--<div class='row'>-->
+    <!--<div class='large-12 columns'>-->
+      <!--{% include section-header.html title="Parallax effect" color="#fff" %}-->
+      <!--<div class='spacing'></div>-->
+      <!--<p class='centered-text' style='color: #ccc;'>-->
+        <!--Dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.-->
+      <!--</p>-->
+      <!--<div class='two spacing'></div>-->
+    <!--</div>-->
+  <!--</div>-->
+  <!--<div class='row'>-->
+    <!--{% for milestone in page.milestones %}-->
+      <!--<div class='medium-3 large-3 columns'>-->
+        <!--<div class='mod modMilestone'>-->
+          <!--<i class='fa fa-{{milestone.icon}}'></i>-->
+          <!--<strong data-from='{{milestone.from}}' data-to='{{milestone.to}}'>&nbsp;</strong>-->
+          <!--<span>{{milestone.title}}</span>-->
+          <!--<div class='four spacing'></div>-->
+        <!--</div>-->
+      <!--</div>-->
+    <!--{% endfor %}-->
+  <!--</div>-->
+  <!--<div class='two spacing'></div>-->
+<!--</div>-->
 
 <div class='full'>
   <div class='row'>
@@ -297,7 +297,7 @@ milestones:
       {% include section-header.html title="Our team" %}
       <div class='spacing'></div>
       <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+        The team who run the observing, object discovery and orbit calculation are in British Columbia, Canada, and Besancon, France. Teams working to understand different aspects of the discoveries are international.
       </p>
       <div class='two spacing'></div>
     </div>
@@ -334,10 +334,10 @@ milestones:
 <div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Our recent posts" %}
+      {% include section-header.html title="Recently at OSSOS" %}
       <div class='spacing'></div>
       <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+        The Canada-France-Hawaii Telescope observes for us every new moon. There's always more data arriving, or more discoveries being made!
       </p>
       <div class='two spacing'></div>
     </div>
@@ -393,20 +393,20 @@ milestones:
 </div>
 
 
-{% include our-customers.html %}
+<!--{% include our-customers.html %}-->
 
 
-<div class='full no-padding' style='background: #fff'>
-  <div class='two spacing'></div>
-  <div class='mod modCallToAction'>
-    <div class='row'>
-      <div class='medium-9 large-9 columns'>
-        <p>Like what you see here? Checkout this theme and start to build your site immediately.</p>
-      </div>
-      <div class='medium-3 large-3 columns'>
-        <a class='button' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Learn more</a>
-      </div>
-    </div>
-  </div>
-  <div class='spacing'></div>
-</div>
+<!--<div class='full no-padding' style='background: #fff'>-->
+  <!--<div class='two spacing'></div>-->
+  <!--<div class='mod modCallToAction'>-->
+    <!--<div class='row'>-->
+      <!--<div class='medium-9 large-9 columns'>-->
+        <!--<p>Like what you see here? Checkout this theme and start to build your site immediately.</p>-->
+      <!--</div>-->
+      <!--<div class='medium-3 large-3 columns'>-->
+        <!--<a class='button' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Learn more</a>-->
+      <!--</div>-->
+    <!--</div>-->
+  <!--</div>-->
+  <!--<div class='spacing'></div>-->
+<!--</div>-->
