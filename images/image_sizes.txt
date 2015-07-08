@@ -19,3 +19,5 @@ blog post images:
 
 company logos:
 272 x 180
+
+corner logo size: 140 x 48
