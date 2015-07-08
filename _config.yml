@@ -1,14 +1,13 @@
 # Site settings
-title: Devoll
-email: your-email@domain.com
+title: OSSOS - the Outer Solar System Origins Survey
+email: ossoscore@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A survey of the sky using MegaCam on the 3.6-metre Canada-France-Hawaii Telescope.
+  We aim to discover several hundred distant icy worlds at the edge of our Solar System.
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.ossos-survey.org" # the base hostname & protocol for your site
+twitter_username: OSSOSurvey
+# github_username:  OSSOS
 
 # Build settings
 markdown: kramdown

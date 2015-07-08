@@ -1,5 +1,5 @@
 - name: Home
-  path: index.html
+  path: tnodb.html
   section_id: home
 - name: About
   path: about.html
@@ -13,6 +13,8 @@
   children:
     - name: Orbits & photometry
       path: tnodb.html
+    - name: Survey Simulator
+      path: simulator.html
     - name: Publications
       path: publications.html
 - name: Blog
@@ -30,4 +32,4 @@
     - name: Wiki
       path: http://wiki.ossos-survey.org
     - name: Get Involved
-      path: join.html
+      path: get-involved.html
