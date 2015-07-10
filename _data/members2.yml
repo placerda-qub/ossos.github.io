@@ -1,0 +1,23 @@
+- avatar: images/people/kat_volk_crop.jpg
+  name: Kat Volk
+  position: Orbit classification
+  socials:
+    - link: http://twitter.com/kat_volk
+      icon: twitter
+#  desc:
+
+- avatar: images/people/stephen_gwyn.png
+  name: Stephen Gwyn
+  position: Astrometric catalogue
+#  desc:
+
+- avatar: images/people/ying-tung_chen.jpg
+  name: Ying-Tung (Charles) Chen
+  position: Data analysis
+#  desc:
+
+- avatar: images/people/mike_alexandersen.jpg
+  name: Mike Alexandersen
+  position:
+##  desc:
+##
