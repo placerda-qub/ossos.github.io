@@ -1,33 +1,33 @@
-- name: Survey
-  path: about.html
-  section_id: about
-- name: Science
-  path: science.html
-  section_id: science
+#- name: Survey
+#  path: about.html
+#  section_id: about
+#- name: Science
+#  path: science.html
+#  section_id: science
 - name: Discoveries
   section_id: data
   path: tnodb.html
   children:
     - name: Orbits & photometry
       path: tnodb.html
-    - name: Survey Simulator
-      path: simulator.html
-    - name: Publications
-      path: publications.html
+#    - name: Survey Simulator
+#      path: simulator.html
+#    - name: Publications
+#      path: publications.html
     - name: Open-source Software
       url: https://github.com/OSSOS/MOP
-- name: Blog
-  path: blog/
-  section_id: blog
-- name: People
-  path: people.html
-  section_id: people
-  path: people.html
-  children:
-    - name: People
-      path: people.html
-    - name: Get Involved
-      path: get-involved.html
+#- name: Blog
+#  path: blog/
+#  section_id: blog
+#- name: People
+#  path: people.html
+#  section_id: people
+#  path: people.html
+#  children:
+#    - name: People
+#      path: people.html
+#    - name: Get Involved
+#      path: get-involved.html
 - name: Collaboration
   section_id: collaboration
   children:
