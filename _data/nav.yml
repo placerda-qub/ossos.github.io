@@ -1,12 +1,12 @@
-- name: About
+- name: Survey
   path: about.html
   section_id: about
 - name: Science
   path: science.html
   section_id: science
-- name: Data
-  path: tnodb.html
+- name: Discoveries
   section_id: data
+  path: tnodb.html
   children:
     - name: Orbits & photometry
       path: tnodb.html
@@ -14,19 +14,24 @@
       path: simulator.html
     - name: Publications
       path: publications.html
+    - name: Open-source Software
+      url: https://github.com/OSSOS/MOP
 - name: Blog
   path: blog/
   section_id: blog
-- name: Contact
-  path: contact.html
-  section_id: contact
-  section_id: collaboration
-- name: Collaboration
+- name: People
+  path: people.html
+  section_id: people
   path: people.html
   children:
-    - name: Data Releases (restricted)
-      link: http://wiki.ossos-survey.org/index.php/OSSOS_data_release_access
-    - name: Wiki
-      link: http://wiki.ossos-survey.org
+    - name: People
+      path: people.html
     - name: Get Involved
       path: get-involved.html
+- name: Collaboration Area
+  section_id: collaboration
+  children:
+    - name: Data Releases (restricted)
+      url: http://wiki.ossos-survey.org/index.php/OSSOS_data_release_access
+    - name: Wiki
+      url: http://wiki.ossos-survey.org
