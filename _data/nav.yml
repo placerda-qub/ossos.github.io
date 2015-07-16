@@ -28,7 +28,7 @@
       path: people.html
     - name: Get Involved
       path: get-involved.html
-- name: Collaboration Area
+- name: Collaboration
   section_id: collaboration
   children:
     - name: Data Releases (restricted)
