@@ -1,6 +1,6 @@
-#- name: Survey
-#  path: about.html
-#  section_id: about
+- name: Survey
+  path: about.html
+  section_id: about
 #- name: Science
 #  path: science.html
 #  section_id: science
