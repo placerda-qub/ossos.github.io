@@ -787,7 +787,8 @@ ul.shortcode-list i {
 }
 
 .button:hover {
-  background-color: rgba(249, 206, 6, 0.8);
+  background-color: #A9D0F5;
+  /*rgba(249, 206, 6, 0.8);*/
 }
 
 .button.boxed {
