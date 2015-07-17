@@ -19,15 +19,15 @@
 #- name: Blog
 #  path: blog/
 #  section_id: blog
-#- name: People
-#  path: people.html
-#  section_id: people
-#  path: people.html
-#  children:
-#    - name: People
-#      path: people.html
-#    - name: Get Involved
-#      path: get-involved.html
+- name: People
+  path: people.html
+  section_id: people
+  path: people.html
+  children:
+    - name: People
+      path: people.html
+    - name: Get Involved
+      path: get-involved.html
 - name: Collaboration
   section_id: collaboration
   children:
