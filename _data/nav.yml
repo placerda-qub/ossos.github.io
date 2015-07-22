@@ -12,8 +12,8 @@
       path: tnodb.html
 #    - name: Survey Simulator
 #      path: simulator.html
-#    - name: Publications
-#      path: publications.html
+    - name: Publications
+      path: publications.html
     - name: Open-source Software
       url: https://github.com/OSSOS/MOP
 #- name: Blog
