@@ -72,7 +72,7 @@
   team: Scattering
 
 - name: Edward Lin
-  team: Binaries
+  team: Binaries
 
 - name: Tim Lister
   team: Occultations
@@ -90,6 +90,8 @@
 
 - name: Alex Parker
   teamlead: Binaries
+  email:
+  team: Binaries
 
 - name: Nuno Peixinho
   team: Lightcurves, Surfaces
@@ -116,9 +118,6 @@
 
 - name: Pierre Vernazza
   team: Surfaces
-
-- name: Kat Volk
-  team: Resonant Populations
 
 - name: Shiang-Yu Wang
   team: Scattering
