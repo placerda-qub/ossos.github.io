@@ -1,23 +1,25 @@
-- avatar: images/people/kat_volk_crop.jpg
-  name: Kat Volk
-  position: Orbit classification
-  socials:
-    - link: http://twitter.com/kat_volk
-      icon: twitter
-#  desc:
 
 - avatar: images/people/stephen_gwyn.png
   name: Stephen Gwyn
-  position: Astrometric catalogue
+  role: Astrometric catalogue
+#  desc:
+
+- avatar: images/people/kat_volk_crop.jpg
+  name: Kat Volk
+  role: Orbit classification
+  socials:
+    - link: http://twitter.com/kat_volk
+      icon: twitter
+  team: Resonant Populations
 #  desc:
 
 - avatar: images/people/ying-tung_chen.jpg
   name: Ying-Tung (Charles) Chen
-  position: Data analysis
+  role: Data analysis
+  team: Resonant Populations, Scattering
+
 #  desc:
 
 - avatar: images/people/mike_alexandersen.jpg
   name: Mike Alexandersen
-  position:
-##  desc:
-##
+  role: Survey cadence & design

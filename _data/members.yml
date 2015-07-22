@@ -1,26 +1,30 @@
 - avatar: images/people/brett_gladman.jpg
   name: Brett Gladman
-  position: Principal Investigator, orbit analysis
+  role: Principal Investigator, orbit analysis
+  team: Resonant Populations
 #  desc:
 
 - avatar: images/people/jj_kavelaars.jpg
   name: JJ Kavelaars
-  position: Data, discovery, operations
+  role: Data, discovery
   socials:
     - link: http://twitter.com/JJKavelaars
       icon: twitter
+  team: Scattering
 #  desc:
 
 - avatar: images/people/jean_marc_petit_crop.jpg
   name: Jean-Marc Petit
-  position: Orbit analysis, survey simulator
+  role: Orbit analysis, survey simulator
+  team: Classical Belt
 #  desc:
 
 - avatar: images/people/michele_bannister.jpg
   name: Michele Bannister
-  position: Data, discovery, operations
+  role: Data, discovery, telescope operations
   socials:
     - link: http://twitter.com/astrokiwi
       icon: twitter
+  team: Surfaces
 #  desc: Michele ensures the observations happen for object discovery, and analyses the images to find the objects hidden within.
 

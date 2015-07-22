@@ -1,0 +1,124 @@
+- name: Andrew Becker
+  team: Data Mining
+
+- name: Susan Benecchi
+  teamlead: Lightcurves
+  email: susankshalom@gmail.com
+  team: Lightcurves, Binaries
+
+- name: Federica Bianco
+  team: Occultations
+
+- name: Steven Bickerton
+  team: Classical Belt
+
+- name: Ramon Brasser
+  team: Scattering
+
+- name: Audrey Delsanti
+  team: Surfaces
+
+- name: Wesley Fraser
+  teamlead: Occultations
+  email: westhefras@gmail.com
+  team: Surfaces, Occultations
+
+- name: Mikael Granvik
+  team: Occultations
+
+- name: Will Grundy
+  team: Binaries
+
+- name: Aurelie Guilbert-Lepoutre
+  teamlead: Thermal Modelling
+  email:
+  team: Thermal Modelling, Surfaces
+
+- name: Amanda Gulbis
+  team: Occultations
+
+- name: Daniel Hestroffer
+  team: Binaries
+
+- name: Wing Ip
+  team: Binaries, Resonant Populations
+
+- name: Marian Jakubik
+  team: Scattering
+
+- name: Lynne Jones
+  teamlead: Data Mining
+  email: ljones.uw@gmail.com
+  team: Data Mining, Lightcurves
+
+- name: Nathan Kaib
+  teamlead: Scattering
+  email:
+  team: Scattering
+
+- name: Pavlo Korsun
+  team: Cometary Activity
+
+- name: Simon Krughoff
+  team: Data Mining
+
+- name: Irina Kulyk 
+  team: Cometary Activity
+
+- name: Pedro Lacerda
+  team: Lightcurves
+
+- name: Matthew Lehner
+  team: Scattering
+
+- name: Edward Lin
+  team: Binaries
+
+- name: Tim Lister
+  team: Occultations
+
+- name: Patryk Lykawka
+  team: Resonant Populations
+
+- name: Ruth Murray-Clay
+  teamlead: Resonant Populations
+  email:
+  team: Resonant Populations
+
+- name: Keith Noll 
+  team: Binaries
+
+- name: Alex Parker
+  teamlead: Binaries
+
+- name: Nuno Peixinho
+  team: Lightcurves, Surfaces
+
+- name: Rosemary Pike
+  team: Surfaces
+
+- name: Philippe Rousselot
+  teamlead: Cometary Activity
+  email: phil@obs-besancon.fr
+  team: Cometary Activity, Thermal Modelling
+
+- name: Meg Schwamb
+  team: Lightcurves, Surfaces
+
+- name: Cory Shankman
+  team: Scattering
+
+- name: Bruno Sicardy
+  team: Occultations
+
+- name: Scott Tremaine
+  team: Scattering
+
+- name: Pierre Vernazza
+  team: Surfaces
+
+- name: Kat Volk
+  team: Resonant Populations
+
+- name: Shiang-Yu Wang
+  team: Scattering

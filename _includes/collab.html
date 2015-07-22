@@ -1,0 +1,19 @@
+
+<tbody>
+  {% for person in site.data.collaboration %}
+    <tr>
+      <td>{{person.name}}</td>
+      {% if person.role %}
+        <td><em><span style="color: #c0c0c0;">{{person.role}}</span></em></td>
+      {% endif %}
+      {% if person.teamlead %}
+        <td>
+          <a href="mailto:?subject=Re: OSSOS {{person.teamlead}}">leader: {{person.teamlead}}</a> 
+        </td>
+      {% else %}
+        <td></td>
+      {% endif %}
+      <td><em><span>{{person.team}}</span></em></td>
+    </tr>
+  {% endfor %}
+</tbody>

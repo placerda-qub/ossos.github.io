@@ -1,0 +1,17 @@
+
+<tbody>
+  {% for person in site.data.members %}
+    <tr>
+      <td>{{person.name}}</td>
+      <td><em><span style="color: #c0c0c0;">{{person.role}}</span></em></td>
+      <td><em><span>{{person.team}}</span></em></td>
+    </tr>
+  {% endfor %}
+  {% for person in site.data.members2 %}
+    <tr>
+      <td>{{person.name}}</td>
+      <td><em><span style="color: #c0c0c0;">{{person.role}}</span></em></td>
+      <td><em><span>{{person.team}}</span></em></td>
+    </tr>
+  {% endfor %}
+</tbody>
