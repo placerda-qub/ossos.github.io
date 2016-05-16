@@ -1,0 +1,126 @@
+
+      15 May 2016
+OSSOS corresondence list , for released blocks
+
+This file is not intended to be a readable table, but rather a searchable
+file to find the linkages between an OSSOS designation and the IAU Minor
+Planet Center designations (which include both temporary, packed temporary,
+and perhaps numbered or named designations).
+
+E block
+
+o3e01     K02GG6G   2002GG166 
+o3e02     K13GD7H   2013GH137 
+o3e03     K13GD7E   2013GE137 
+o3e04     K13GD7J   2013GJ137 
+o3e05     K13GD6W   2013GW136 
+o3e06     K13GD7L   2013GL137 
+o3e07     K13GD7G   2013GG137 
+o3e08     K13GD7D   2013GD137 
+o3e09     K13GD6Y   2013GY136 
+o3e10     K13GD6O   2013GO136 
+o3e11     K13GD6Z   2013GZ136 
+o3e12     K13GD7F   2013GF137 
+o3e13     K13GD6U   2013GU136 
+o3e15     K13GD8D   2013GD138 
+o3e16     K13GD7S   2013GS137 
+o3e17     K13GD6V   2013GV136 
+o3e18     K13GD7Z   2013GZ137 
+o3e19     K13GD6R   2013GR136 
+o3e20PD   01FK185   2001FK185   L4h05PD   l4h05    Also RE-discovered in CFEPS
+o3e21     K13GD7Q   2013GQ137 
+o3e22     K13GD7N   2013GN137 
+o3e23PD   K01FI5O   2001FO185    443843   i3843   BG must add to idx
+o3e24     K13GD7R   2013GR137 
+o3e25     K13GD7U   2013GU137 
+o3e26     K13GD8A   2013GA138 
+o3e27PD   K04E95U   2004EU95
+o3e28     K13GD7X   2013GX137 
+o3e29     K13GD7O   2013GO137 
+o3e30PD   K13EE9M   2013EM149 
+o3e31     K13GD7T   2013GT137 
+o3e32     K13GD8C   2013GC138 
+o3e34PD   K13GD8F   2013GF138 
+o3e35     K13GD7P   2013GP137 
+o3e36     K13HF6T   2013HT156 
+o3e37PD   K04H79J   2004HJ79    L4h13     l4h13     First discovered in CFEPS
+o3e38     K13GD8B   2013GB138 
+o3e39     K13GD6P   2013GP136 
+o3e40     K13GD8E   2013GE138 
+o3e41     K13GD7K   2013GK137 
+o3e43     K13GD7V   2013GV137 
+o3e44     K13GD8G   2013GG138 
+o3e45     K13GD6Q   2013GQ136 
+o3e48     K13GD6S   2013GS136 
+o3e49     K13HF6R   2013HR156 
+o3e51     K13GD7M   2013GM137 
+o3e52     K13GD6T   2013GT136 
+o3e53     K13GD7Y   2013GY137 
+o3e54     K13GD7W   2013GW137 
+o3e55     K13GD6X   2013GX136 
+
+O block
+o3o01     K13J64C   2013JC64  
+o3o02     K13J65C   2013JC65  
+o3o03     K13J65H   2013JH65  
+o3o04     K13J65G   2013JG65  
+o3o05     K13J65K   2013JK65  
+o3o06     K13J64Z   2013JZ64  
+o3o07     K13J64F   2013JF64  
+o3o08     K13J65E   2013JE65  
+o3o09     K13J65B   2013JB65  
+o3o10     K13J65F   2013JF65  
+o3o11     K13J64K   2013JK64  
+o3o12     K13J65A   2013JA65  
+o3o13     K13J65L   2013JL65  
+o3o14     K13J64O   2013JO64  
+o3o15     K13J65D   2013JD65  
+o3o16     K13J64P   2013JP64  
+o3o17     K13J64R   2013JR64  
+o3o18     K13J64E   2013JE64  
+o3o19     K13J64N   2013JN64  
+o3o20PD   K07J43F   2007JF43
+o3o21     K13J65R   2013JR65  
+o3o22     K13J65S   2013JS65  
+o3o23     K13J65P   2013JP65  
+o3o24     K13J65O   2013JO65  
+o3o25     K13J64M   2013JM64  
+o3o26     K13J65Q   2013JQ65  
+o3o27     K13J65J   2013JJ65  
+o3o28     K13J65N   2013JN65  
+o3o29     K13J64L   2013JL64  
+o3o30     K13J65T   2013JT65  
+o3o31     K13J64D   2013JD64  
+o3o32     K13J64G   2013JG64  
+o3o33     K13J64J   2013JJ64  
+o3o34     K13J64H   2013JH64  
+o3o35     K13J65M   2013JM65  
+o3o36     K13J64Q   2013JQ64  
+
+The objects below are UNCHARACTERIZED in the OSSOS Survey.
+Astrometry has been sent to MPC and some have been
+designated.  The 'nt' (meaning not tracked) objects have
+not been given MPC designations and thus they are listed
+here only for completeness sake.
+
+   Uncharact E block.  
+uo3e14    K13HF6S   2013HS156 
+uo3e33    K13GD7C   2013GC137          
+uo3e42      K13GD7A  2013GA137         BG must add
+uo3e46nt  
+uo3e50nt 
+  Uncharact O block
+uo3o37    K13J64U   2013JU64  
+uo3o38    K13J64S   2013JS64  
+uo3o39nt  
+uo3o40nt  
+uo3o41nt  
+uo3o42nt  
+uo3o43nt  
+uo3o44nt  
+uo3o45nt  
+uo3o46nt  
+uo3o47nt  
+uo3o48nt  
+uo3o49nt  
+uo3o50    K13J64V   2013JV64  
