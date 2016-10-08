@@ -1,13 +1,7 @@
----
-layout: default
-title: OSSOS Collaborational Agreement
-section_id: agreement
----
+# OSSOS Collaborational Agreement
 
+  The collaborational agreement below outlines an individual member's commitments to both their OSSOS Topic Team and to the OSSOS project as a whole.
 
-The collaborational agreement below outlines an individual member's commitments to both their OSSOS Topic Team and to the OSSOS project as a whole.
-
-----------
 ## Structure:
 
 
@@ -62,10 +56,7 @@ A10. Amendment process
 This agreement can be modified by majority vote of the Core Team along with majority vote of the Leaders of the active Topic Teams.
 
 
-==========================================================
-
 ## Core Team Responsibilities
---------------------------
 
 C1. Programming observations into CFHT Queue
 
@@ -100,10 +91,7 @@ C15. Twice-annual reports to CFHT on progress, changes in team membership
 C16. A longer Midterm Review report to CFHT in 2015
 
 
-==========================================================
-
 ## Topic Team responsibilities
----------------------------
 
 *Responsibility to ensure Team responsibilities are met falls on the Team Leader*
 
@@ -119,10 +107,8 @@ T5. Process for new members:  If a new member wishes to join a Topic Team, the n
 
 T6. Creation of new Topic Teams is at the discretion of the Core Team. Proposals to do so would be submitted for consideration.
 
-==========================================================
 
 ## OSSOS Publications Policy
--------------------------
 
 P1.  Once per year the OSSOS project will publish a 'survey progress' paper with the detections to date. All OSSOS Core and Topic
 
