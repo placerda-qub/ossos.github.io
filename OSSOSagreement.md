@@ -1,7 +1,8 @@
------------------------------------
-| OSSOS Collaborational Agreement |
------------------------------------
-
+---
+layout: default
+title: OSSOS Collaborational Agreement
+section_id: agreement
+---
 
 
 The collaborational agreement below outlines an individual member's commitments to both their OSSOS Topic Team and to the OSSOS project as a whole.
