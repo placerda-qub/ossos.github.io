@@ -114,9 +114,7 @@ P1.  Once per year the OSSOS project will publish a 'survey progress' paper with
 
 Team members will appear on each year's publication if their Team Leader deems that they have contributed to OSSOS during the operational year which the paper describes.
 
-P2. The Core Team leaders are not intending to lead-author other publications, and so Gladman, Kavelaars, Petit, Bannister and any  other postdoc/students that were working with them specifically on OSSOS data flow should be listed on the _first_ topic-team paper from each Team. After that, inclusion of each (or any) Core Team member on publications will be at the discretion of each topic team for each paper, depending on how important the paper's authors feel the 
-
-Core Team's contribution is.
+P2. The Core Team leaders are not intending to lead-author other publications, and so Gladman, Kavelaars, Petit, Bannister and any  other postdoc/students that were working with them specifically on OSSOS data flow should be listed on the _first_ topic-team paper based upon newly released data in a given data release. After that, inclusion of each (or any) Core Team member on publications will be at the discretion of each topic team for each paper, depending on how important the paper's authors feel the  Core Team's contribution is.
 
 P3. No paper shall be submitted (to a journal or preprint server) without the paper being first sent to the Topic Team members.  The lead author must also inform the Core Team of the title and author list at the same time  (via email to ossoscore@gmail.com and the OSSOS wiki's Publication page), but the Core Team has no authority to impede unless the paper is considered to extend into the domain of another Topic Team.  The Topic Team members should have at least one week to comment, but cannot demand (unless a mutual agreement is reached) a delay in submission by more than two weeks. It is expected that Topic Team members are in any case aware that a paper
 is underway (point A3 above).   The first author has the right to refuse a proposed collaboration from someone outside their Topic Team, should they choose.
